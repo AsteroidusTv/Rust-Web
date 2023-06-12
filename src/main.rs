@@ -32,7 +32,7 @@ fn app() -> Html {
         <div>
             <button onclick={onclick1}>{"+1"}</button>
             <p>{ state.value }</p>
-            <button class="red" onclick={onclick2}>{"+1"}</button>
+            <button class="red" onclick={onclick2}>{"-1"}</button>
         </div>
     }
 }
