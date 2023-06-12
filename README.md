@@ -4,8 +4,8 @@ Make a website with Rust (The best programming language)
 ## Dependencies 
 
 * Clone the project `git clone https://github.com/AsteroidusTv/Rust-Web/`
-* Install cargo `sudo apt install cargo`*
-* Install trunk `sudo cargo install trunk`
+* Install cargo `sudo apt install cargo`
+* Install trunk `cargo install trunk target`
 * Target add `target add wasm32-unknown-unknown`
 * Go into project folder `cd Rust-Web`
 
