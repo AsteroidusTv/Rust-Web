@@ -8,12 +8,30 @@ Make a website with Rust (The best programming language)
 git clone https://github.com/AsteroidusTv/Rust-Web/
 ```
 
-* Install cargo ```sudo apt install cargo```
-* Install trunk ```cargo install trunk target```
-* Target add ```target add wasm32-unknown-unknown```
-* Go into project folder `cd Rust-Web```
+* Install cargo : 
+```
+sudo apt install cargo
+```
+* Install trunk and target :
+```
+cargo install trunk target
+```
+* Target add : 
+```
+ target add wasm32-unknown-unknown
+```
+* Go into project folder :
+```
+cd Rust-Web
+```
 
 ## Run ther app 
 
-* Run ```trunk serve```
-* In browser go in ```localhost:8080```
+* Run : 
+```
+trunk serve
+```
+* In browser go in 
+```
+localhost:8080
+```
