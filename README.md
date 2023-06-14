@@ -12,13 +12,13 @@ git clone https://github.com/AsteroidusTv/Rust-Web/
 ```
 sudo apt install cargo
 ```
+* Install WebAssembly target : 
+```
+rust up target add wasm32-unknown-unknown
+```
 * Install trunk and target :
 ```
 cargo install trunk target
-```
-* Target add : 
-```
- target add wasm32-unknown-unknown
 ```
 * Go into project folder :
 ```
