@@ -1,5 +1,5 @@
 # Rust-Web
-Make a website with Rust (The best programming language)
+Make a website with Rust (The best programming language and beacause Javascript is awful)
 
 ## Dependencies 
 
