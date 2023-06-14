@@ -14,7 +14,7 @@ sudo apt install cargo
 ```
 * Install WebAssembly target : 
 ```
-rust up target add wasm32-unknown-unknown
+rustup target add wasm32-unknown-unknown
 ```
 * Install trunk and target :
 ```
